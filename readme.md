@@ -1,5 +1,3 @@
-// README.md
-
 # Azure Blob Chunked Upload - .NET Core 8
 
 ## 📦 About
